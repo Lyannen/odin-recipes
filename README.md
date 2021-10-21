@@ -1,0 +1,1 @@
+In this project, I have set up a simple recipe website using HTML. I have hopefully demonstrated understanding and routine in the structure ("boilerplate") of HTML documents as well as using basic HTML text formatting elements. I have also embedded links and images and used a reasonable file structure for this project.
