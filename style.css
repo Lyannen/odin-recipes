@@ -1,0 +1,13 @@
+.fun {
+    color: green;
+    font-family: "Comic Sans MS", sans-serif;
+}
+
+.fun-image {
+    height: 400px;
+    width: 1000px;
+}
+
+ul li {
+    color: red;
+}
